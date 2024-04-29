@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **Python, Statistics, ML Algorithms, Instrumentation Engineering**
+- 💬 Ask me about **Python, SQL, Statistics, ML Algorithms, Deep Learning, CNN, NLP, PowerBI, Instrumentation Engineering**
 
 - 📫 How to reach me **vikranty622@gmail.com**
 
