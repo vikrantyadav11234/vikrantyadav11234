@@ -1,6 +1,6 @@
 [![MasterHead](https://images.search.yahoo.com/search/images;_ylt=AwrjbYlP_y5mkDo6z9GJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDUVJoV3g0cXVTTUtYSVpRWTdpNGNTQQRuX3JzbHQDMARuX3N1Z2cDMwRvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzE2BHF1ZXJ5A2RhdGElMjBzY2llbmNlJTIwZ2lmBHRfc3RtcAMxNzE0MzU2MTI2?p=data+science+gif&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210US885G0#id=2&iurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*g__jiesLRIfCRefVG69Pfw.gif&action=click)](https://github.com/vikrantyadav11234/vikrantyadav11234.git)
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
-<h3 align="center">An aspiring Data Scientist from India</h3>
+<h3 align="center">An aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrantyadav11234&label=Profile%20views&color=0e75b6&style=flat" alt="vikrantyadav11234" /> </p>
 
